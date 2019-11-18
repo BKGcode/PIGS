@@ -100,7 +100,7 @@ Material:
     - _NormalIntensity: 0.851
     - _OcclusionStrength: 1
     - _OcclussionIntensity: 0
-    - _OutlineSize: 0.02
+    - _OutlineSize: 0.01
     - _OutlineWidth: 0.0129
     - _Parallax: 0.02
     - _RimIntensity: 0.029
